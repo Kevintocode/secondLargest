@@ -15,7 +15,6 @@ public class SecondLargest {
         }
 
     return secondMax;
-
     }
 
     public static void main(String[] args){
